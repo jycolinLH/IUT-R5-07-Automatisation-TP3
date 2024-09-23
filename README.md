@@ -1,1 +1,1 @@
-# -Owner-avatar-IUT-R5-07-Automatisation-TP3
+# IUT-R5-07-Automatisation-TP3
